@@ -18,9 +18,11 @@ To make a frontend that can comunicate my prior work and projects
 
 * node.js
 * react
-* TypeScript 
+* TypeScript
 * [vite](https://vitejs.dev)
+* [React Router](https://reactrouter.com/en/main)
 
 
 ### tools
 * [date-fns](https://date-fns.org)
+* [Prettier](https://prettier.io)

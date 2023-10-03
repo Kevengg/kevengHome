@@ -17,8 +17,9 @@ To make a frontend that can comunicate my prior work and projects
 ## Technology
 
 * node.js
-* ts react 
-*  [astro](https://astro.build)
+* react
+* TypeScript 
+* [vite](https://vitejs.dev)
 
 
 ### tools
